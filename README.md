@@ -45,7 +45,7 @@ biology_score: Score achieved by the student in biology.
 english_score: Score achieved by the student in English.
 
 
-
+![Screenshot 2024-08-02 152014](https://github.com/user-attachments/assets/56395651-2d06-4df8-9cd3-32b0f8109841)
 
 
 
