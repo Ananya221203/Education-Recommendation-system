@@ -49,4 +49,4 @@ english_score: Score achieved by the student in English.
 
 ![Screenshot 2024-08-02 152500](https://github.com/user-attachments/assets/07e501e7-c6a9-4f49-bcba-31fdbb7be17c)
 
-
+![Screenshot 2024-08-02 165409](https://github.com/user-attachments/assets/a7063cb1-3437-4e4e-86b4-02594297ae01)
