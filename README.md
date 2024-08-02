@@ -3,7 +3,7 @@ Before using any other file you have to run the Studend recommendation notebook 
 
 # Dataset Description:
 
-download link:
+download link:https://github.com/Ananya221203/Education-Recommendation-system/blob/main/student-scores.csv.csv
 
 This dataset contains information about students enrolled in an academy, including their personal details, academic scores, extracurricular activities, and career aspirations.
 
